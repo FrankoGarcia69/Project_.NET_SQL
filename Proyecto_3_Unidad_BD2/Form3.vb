@@ -6,12 +6,11 @@ Public Class Form3
     Dim tablaPedidos As New DataTable
     Dim adapPedidos As New SqlDataAdapter
     Private Sub Form3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Dim url As String
+        Dim url As New Conexion
         Dim con As SqlConnection
 
         'Conexion
-        url = "Server = 3.128.144.165; Database = DB20182000189; UID = franko.garcia; pwd = fgarcia"
-        con = New SqlConnection(url)
+        con = New SqlConnection(url.GetUrl)
 
         'Vista Saldos
         adapSaldos.SelectCommand = New SqlCommand("select * from vwCliente", con)

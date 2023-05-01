@@ -6,12 +6,11 @@ Public Class Form2
     Dim tablaCliente As New DataTable
     Dim adapCliente As New SqlDataAdapter
     Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Dim url As String
+        Dim url As New Conexion
         Dim con As SqlConnection
 
         'Conexion
-        url = "Server = 3.128.144.165; Database = DB20182000189; UID = franko.garcia; pwd = fgarcia"
-        con = New SqlConnection(url)
+        con = New SqlConnection(url.GetUrl)
 
         'Tabla Proveedor
         'Select

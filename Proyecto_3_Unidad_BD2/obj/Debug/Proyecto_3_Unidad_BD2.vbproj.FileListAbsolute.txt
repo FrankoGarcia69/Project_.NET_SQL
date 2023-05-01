@@ -10,3 +10,4 @@ D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD
 D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.pdb
 D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.Form2.resources
 D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.Form3.resources
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.Form4.resources

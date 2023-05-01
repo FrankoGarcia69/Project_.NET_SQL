@@ -58,9 +58,9 @@ Partial Class Form1
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 21.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(102, 32)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(490, 33)
+        Me.Label2.Size = New System.Drawing.Size(480, 33)
         Me.Label2.TabIndex = 8
-        Me.Label2.Text = "Formularios de Consulta de Datos"
+        Me.Label2.Text = "Consulta y Modificación de Datos"
         '
         'Button3
         '
@@ -71,7 +71,7 @@ Partial Class Form1
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(394, 49)
         Me.Button3.TabIndex = 9
-        Me.Button3.Text = "Funciones Tipo Tabla"
+        Me.Button3.Text = "ClientePago y Datos por Proveedor"
         Me.Button3.UseVisualStyleBackColor = False
         '
         'Form1
