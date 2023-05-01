@@ -1,0 +1,12 @@
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\bin\Debug\Proyecto_3_Unidad_BD2.exe.config
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\bin\Debug\Proyecto_3_Unidad_BD2.exe
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\bin\Debug\Proyecto_3_Unidad_BD2.pdb
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\bin\Debug\Proyecto_3_Unidad_BD2.xml
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.Form1.resources
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.Resources.resources
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.vbproj.GenerateResource.Cache
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.exe
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.xml
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.pdb
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.Form2.resources
+D:\Franko\Visual Studio 2012\Projects\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\Proyecto_3_Unidad_BD2\obj\Debug\Proyecto_3_Unidad_BD2.Form3.resources
