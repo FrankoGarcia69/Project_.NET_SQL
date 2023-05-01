@@ -71,7 +71,7 @@ Partial Class Form1
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(394, 49)
         Me.Button3.TabIndex = 9
-        Me.Button3.Text = "Vistas"
+        Me.Button3.Text = "Funciones Tipo Tabla"
         Me.Button3.UseVisualStyleBackColor = False
         '
         'Form1

@@ -54,6 +54,7 @@ Public Class Form2
         'Insert
         adapCliente.InsertCommand = New SqlCommand("spInsertarCliente", con)
         adapCliente.InsertCommand.CommandType = CommandType.StoredProcedure
+        adapCliente.InsertCommand.Parameters.Add("@clienteID", SqlDbType.Int, 4, "clienteID")
         adapCliente.InsertCommand.Parameters.Add("@nombre", SqlDbType.VarChar, 50, "nombre")
         adapCliente.InsertCommand.Parameters.Add("@dni", SqlDbType.VarChar, 50, "dni")
         adapCliente.InsertCommand.Parameters.Add("@saldo", SqlDbType.Float, 20, "saldo")
